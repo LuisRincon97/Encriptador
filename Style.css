@@ -1,0 +1,21 @@
+body{
+    background: url(Imagen/Wallpaper.jpg);
+    font-family: 'Josefin Sans';
+     
+
+
+}
+
+main{
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 80px;
+
+}
+
+.text-area {
+    border: none;
+    color: red;
+    margin-top: 90px;
+    text-transform: lowercase;
+}
